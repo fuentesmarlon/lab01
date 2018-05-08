@@ -26,15 +26,10 @@
         android:layout_alignParentEnd="true"
         android:layout_gravity="bottom"
         android:layout_marginBottom="16dp"
-<<<<<<< HEAD
-        android:layout_marginEnd="16dp"
+        android:layout_marginEnd="25dp"
         android:layout_weight="1"
         android:src="@drawable/boton"
-=======
-        android:clickable="true"
-        android:src="@drawable/elboton"
-        app:borderWidth="0dp"
->>>>>>> interfaz
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="@+id/listViewId" />
+        app:layout_constraintEnd_toEndOf="parent" />
 </android.support.constraint.ConstraintLayout>
+
