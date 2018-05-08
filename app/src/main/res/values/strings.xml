@@ -1,5 +1,6 @@
 <resources>
     <string name="app_name">Lab01</string>
+<<<<<<< HEAD
     <string-array name="animales">
         <item>perro</item>
         <item>gato</item>
@@ -11,4 +12,7 @@
         <item>ardilla</item>
         <item>mono</item>
     </string-array>
+=======
+    <string name="title_activity_activitya">Activitya</string>
+>>>>>>> bcba74a518a7d2e72163d56f9e923696e00a08bc
 </resources>
