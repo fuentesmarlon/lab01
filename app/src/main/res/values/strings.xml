@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Lab01</string>
+    <string-array name="animales">
+        <item>perro</item>
+        <item>gato</item>
+        <item>tiburon</item>
+        <item>gallina</item>
+        <item>aguila</item>
+        <item>lemur</item>
+        <item>liebre</item>
+        <item>ardilla</item>
+        <item>mono</item>
+    </string-array>
 </resources>
