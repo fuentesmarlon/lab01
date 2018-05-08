@@ -19,15 +19,22 @@
     </ListView>
 
     <android.support.design.widget.FloatingActionButton
-        android:id="@+id/fab"
-        android:layout_width="0dp"
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="end|bottom"
-        android:layout_margin="16dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_gravity="bottom"
         android:layout_marginBottom="16dp"
+<<<<<<< HEAD
         android:layout_marginEnd="16dp"
         android:layout_weight="1"
         android:src="@drawable/boton"
+=======
+        android:clickable="true"
+        android:src="@drawable/elboton"
+        app:borderWidth="0dp"
+>>>>>>> interfaz
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
+        app:layout_constraintEnd_toEndOf="@+id/listViewId" />
 </android.support.constraint.ConstraintLayout>
